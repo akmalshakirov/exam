@@ -80,7 +80,13 @@ const App = () => {
                                             className='text-white rounded-[5px] bg-[#DC780B] py-[11px] px-[15px]'>
                                             +
                                         </button>
-                                        <h1>++++</h1>
+                                        <div className='flex gap-[1px]'>
+                                            <p>{<menuData.star />}</p>
+                                            <p>{<menuData.star />}</p>
+                                            <p>{<menuData.star />}</p>
+                                            <p>{<menuData.star />}</p>
+                                            <p></p>
+                                        </div>
                                     </div>
                                 </div>
                             </Card>
