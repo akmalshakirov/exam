@@ -87,6 +87,7 @@ const App = () => {
                                             <p>{<menuData.star />}</p>
                                             <p></p>
                                         </div>
+                                        4
                                     </div>
                                 </div>
                             </Card>
